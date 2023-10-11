@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693013042 source:c:\users\kenny allen\documents\c,c++\my first c project\runge-kutta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+
